@@ -1,4 +1,2 @@
 Splinart
 ========
-
-test
