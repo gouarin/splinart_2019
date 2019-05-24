@@ -5,4 +5,5 @@ six
 pylint
 pytest-pylint
 pytest-cov
+pytest-mpl
 codecov
