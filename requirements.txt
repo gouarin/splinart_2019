@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pytest
+six
+pylint
+pytest-pylint
+pytest-cov
+codecov
