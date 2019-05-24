@@ -35,7 +35,7 @@ install:
 
 script:
   - pytest --pylint --pylint-error-types=EF splinart
-  - cd tests; pytest --mpl --cov=splinart
+  - cd tests; pytest --cov=splinart
 
 after_success:
   - codecov -e $PYVER
